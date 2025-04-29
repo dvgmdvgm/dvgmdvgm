@@ -12,6 +12,7 @@ C# | WinForms | .NET Framework | LINQ | Git
 
 📦 Projects Worth Checking Out:  
 - [PortableCreator](https://github.com/dvgmdvgm/PortableCreator-SourceCode-) – Create true portable versions of any app
+- [MonitorUtils](https://github.com/dvgmdvgm/MonitorUtils-Control-your-Monitor-brightness-easyly-) – Control your Monitor Brightness easely from your Windows Taskbar
 - [ZenWindowMover](https://github.com/dvgmdvgm/ZenWindowMover) – C#+JS+CSS hybrid Firefox extension and server app that will move Browser window by dragging webpage elements.
 ---
 
